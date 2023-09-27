@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://papabob31.github.io/sunnyside-frontendmentor/)
+- Solution URL: [Frontend mentor Solution url](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-used-sass-preprocessor-also-g9opUBWkaR)
+- Live Site URL: [Live site ](https://papabob31.github.io/sunnyside-frontendmentor/)
 
 ### Built with
 
